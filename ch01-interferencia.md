@@ -1,7 +1,10 @@
-# Interferência
+# Capítulo 1
 
-## Como a luz se comporta passando por fendas estreitas
+## Interferência
 
-### "Nada na Natureza é..." - John Doe
+### Como a luz se comporta passando por fendas estreitas
 
+*"Nada na Natureza é..." - John Doe*
+
+#### Introdução
 Nosso texo inicia aqui...
